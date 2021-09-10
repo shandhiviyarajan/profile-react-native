@@ -1,8 +1,7 @@
 export const COLORS_DARK = {
-  PRIMARY: '#000000',
   colors: {
-    PRIMARY: '',
-    SECONDARY: '',
+    PRIMARY: '#000000',
+    SECONDARY: '#333',
   },
   padding: 24,
   margin: 24,
